@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/ksxnodeapps/file-table/issues"
   },
-  "homepage": "https://github.com/ksxnodeapps/file-table#readme"
+  "homepage": "https://github.com/ksxnodeapps/file-table#readme",
+  "directories": {
+    "bin": "bin"
+  }
 }
