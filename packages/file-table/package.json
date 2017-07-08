@@ -4,7 +4,6 @@
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
   "version": "0.0.0-1",
   "license": "MIT",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ksxnodeapps/file-table.git"
