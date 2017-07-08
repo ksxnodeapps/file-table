@@ -2,5 +2,15 @@
   "name": "file-table",
   "description": "Sync files between places",
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
-  "version": "0.0.0-0"
+  "version": "0.0.0-0",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksxnodeapps/file-table.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ksxnodeapps/file-table/issues"
+  },
+  "homepage": "https://github.com/ksxnodeapps/file-table#readme"
 }
