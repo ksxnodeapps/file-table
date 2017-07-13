@@ -1,0 +1,17 @@
+help:
+  alias: h
+sync:
+  alias: S
+  type: boolean
+  default: true
+  describe: Sync files
+verbose:
+  alias: v
+  type: boolean
+  default: false
+  describe: Show actions
+force:
+  alias: f
+  type: boolean
+  default: false
+  describe: Force actions using fs-force
