@@ -1,2 +1,14 @@
 #! /usr/bin/env node
 'use strict'
+
+const {resolve} = require('path')
+const fs = require('fs')
+const yaml = require('js-yaml')
+const options = yaml.load(fs.readFileSync(resolve(__dirname, '../data/options.yaml')))
+
+const {argv} = require('yargs')
+  .usage('Command: file-table --sync table.yaml')
+  .options(options)
+  .help('help')
+
+console.log(argv)
