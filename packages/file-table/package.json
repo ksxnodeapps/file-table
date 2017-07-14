@@ -16,7 +16,7 @@
     "bin": "bin"
   },
   "dependencies": {
-    "dry-fs": "^0.0.0",
+    "dry-fs": "^0.0.0-0",
     "fs-force": "^3.1.0",
     "js-yaml": "^3.9.0",
     "yargs": "^8.0.2"
