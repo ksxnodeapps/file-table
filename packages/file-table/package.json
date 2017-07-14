@@ -2,7 +2,7 @@
   "name": "file-table",
   "description": "Sync files between places",
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
-  "version": "0.0.0-2",
+  "version": "0.0.0-3",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -16,6 +16,7 @@
     "bin": "bin"
   },
   "dependencies": {
+    "dry-fs": "^0.0.0",
     "fs-force": "^3.1.0",
     "js-yaml": "^3.9.0",
     "yargs": "^8.0.2"
