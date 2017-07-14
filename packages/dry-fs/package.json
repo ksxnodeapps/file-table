@@ -1,0 +1,14 @@
+{
+  "name": "dry-fs",
+  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksxnodeapps/file-table.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ksxnodeapps/file-table/issues"
+  },
+  "homepage": "https://github.com/ksxnodeapps/file-table#readme",
+  "main": "index.js"
+}
